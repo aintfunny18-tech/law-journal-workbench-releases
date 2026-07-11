@@ -14,6 +14,10 @@ Use the editor-friendly download page:
 The page provides separate downloads for Windows and Apple Silicon macOS, a
 link to the web edition, and plain-language installation instructions.
 
+Current editor preview: **v3.3.1**. Text-based PDF drafts with embedded fonts
+receive the same citation-component typeface review as DOCX drafts; scanned or
+ambiguous PDFs remain explicitly unasserted.
+
 ## Privacy
 
 Desktop projects, manuscripts, and source libraries remain on the editor's
