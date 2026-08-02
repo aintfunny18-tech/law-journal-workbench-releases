@@ -14,10 +14,12 @@ Use the editor-friendly download page:
 The page provides separate downloads for Windows and Apple Silicon macOS, a
 link to the web edition, and plain-language installation instructions.
 
-Current editor preview: **v3.9.0**. The desktop and web editions now include
+Current editor preview: **v3.9.1**. The desktop and web editions include
 separate, low-friction Bluesheet Check and Bluebundle Check workflows, with an
-optional manuscript comparison. Advanced assignment tools and the separate
-Practitioner / Bluepages Review path remain available for editors who need them.
+optional manuscript comparison. This reliability update improves multi-page
+Bluesheets, short-form source matching, PDF citation parsing, and editor-facing
+rule prompts. Advanced assignment tools and the separate Practitioner /
+Bluepages Review path remain available for editors who need them.
 
 ## Privacy
 
