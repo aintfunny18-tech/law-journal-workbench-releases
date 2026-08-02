@@ -14,9 +14,10 @@ Use the editor-friendly download page:
 The page provides separate downloads for Windows and Apple Silicon macOS, a
 link to the web edition, and plain-language installation instructions.
 
-Current editor preview: **v3.8.0**. The desktop and web editions now include
-Bluebundle Assistant and an explicit Practitioner / Bluepages Review path,
-with portable decision state and conservative source/bundle evidence checks.
+Current editor preview: **v3.9.0**. The desktop and web editions now include
+separate, low-friction Bluesheet Check and Bluebundle Check workflows, with an
+optional manuscript comparison. Advanced assignment tools and the separate
+Practitioner / Bluepages Review path remain available for editors who need them.
 
 ## Privacy
 
