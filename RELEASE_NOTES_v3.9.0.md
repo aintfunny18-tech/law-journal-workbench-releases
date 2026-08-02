@@ -22,6 +22,9 @@
   review state remain available under **Advanced assignment tools**.
 - Practitioner / Bluepages Review remains separate and explicitly uses its
   practitioner-document convention with B1-B23 coverage labels.
+- Desktop quick-review results now show the same citation-field summary and
+  Fix before finishing / Confirm manually / Checks passed groups as the web
+  workspace.
 
 ## Verification
 
@@ -41,8 +44,8 @@
 
 SHA-256 checksums:
 
-- Windows: `8B1D11E7BA2B827D0628862057C087A2946ADC4449D5F433BA17CE3F6F84B6F1`
-- macOS: `445CE1F6EF8E3B3FBF6AC20B84D79CAA5AC728AA76A6E3F874F18181636C0622`
+- Windows: `2427CB40EFFA635300382BBD939E2B9BD0B4F70B0251113F7CC50385016680D3`
+- macOS: `9E26158D197DC3836EA52FDED7A1C2DC35AD5CE4FB87CE5FD4282C89AB328DE5`
 
 ## Scope
 
