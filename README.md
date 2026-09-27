@@ -1,10 +1,9 @@
 # Law Journal Workbench
 
-Downloads have moved.
+Law Journal Workbench is a limited beta pilot for law-review cite-checking, including assignments, Bluesheets, and Bluebundles. Pilot builds are shared directly with participating editors.
 
-- **Students and practitioners:** download Citation Workbench at
-  https://aintfunny18-tech.github.io/citation-workbench-releases/
-- **Law-review editors:** Law Journal Workbench is in a limited pilot. Email
-  anthony.woodside@ubalt.edu to request access.
+Email anthony.woodside@ubalt.edu to request pilot access or share feedback.
 
-Earlier releases (3.2 through 3.9) have been retired.
+Public pilot page: https://aintfunny18-tech.github.io/law-journal-workbench-releases/
+
+Citation Workbench is a separate tool for students and practitioners: https://aintfunny18-tech.github.io/citation-workbench-releases/
